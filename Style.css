@@ -270,6 +270,11 @@ button:active {
   transform: translateY(4px);
 }
 
+.maps {
+    display: flex;
+    justify-content: center;
+}
+
 /*This is the Gift Cards Section */
 
 
